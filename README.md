@@ -21,7 +21,7 @@
    yarn dev
    ```
 
-4. Open your browser and go to `http://localhost:4000` to see your slider in action!
+4. Project will run on `http://localhost:4000`
 
 ## Usage
 
